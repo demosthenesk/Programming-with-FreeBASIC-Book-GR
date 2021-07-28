@@ -20,6 +20,6 @@
 
 Εάν επιθυμείτε να μάθετε περισσότερα δείτε το https://www.freebasic.net/
 
-Το pdf και το τυπωμένο βιβλίο είναι υπό άδεια CC-BY-4.0
+Το pdf και το τυπωμένο βιβλίο είναι υπό άδεια [Creative Commons Αναφορά 4.0 — CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.el)
 
 <img title="" src="images/by.png" alt="" width="139" data-align="center">
