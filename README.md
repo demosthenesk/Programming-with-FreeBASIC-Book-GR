@@ -19,3 +19,7 @@
 Το βιβλίο σύντομα θα είναι διαθέσιμο !
 
 Εάν επιθυμείτε να μάθετε περισσότερα δείτε το https://www.freebasic.net/
+
+Το pdf και το τυπωμένο βιβλίο είναι υπό άδεια CC-BY-4.0
+
+<img title="" src="images/by.png" alt="" width="139" data-align="center">
