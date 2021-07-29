@@ -1,3 +1,4 @@
+<div align="center">
 # [Προγραμματισμός με FreeBASIC](https://freebasicbook.wordpress.com/)
 
 το Ελληνικό βιβλίο
@@ -7,6 +8,7 @@
 Το πρώτο Ελληνικό βιβλίο που σας μαθαίνει προγραμματισμό με την γλώσσα FreeBASIC
 
 <img title="" src="images/1stpage3D-186χ302.png" alt="" data-align="center">
+</div>
 
 Δωρεάν ebook pdf
 
@@ -21,5 +23,6 @@
 Εάν επιθυμείτε να μάθετε περισσότερα δείτε το https://www.freebasic.net/
 
 Το pdf και το τυπωμένο βιβλίο είναι υπό άδεια [Creative Commons Αναφορά 4.0 — CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.el)
-
+<div align="center">
 <img title="" src="images/by.png" alt="" width="139" data-align="center">
+</div>
