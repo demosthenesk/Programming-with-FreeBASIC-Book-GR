@@ -1,4 +1,3 @@
-<div align="center">
 # [Προγραμματισμός με FreeBASIC](https://freebasicbook.wordpress.com/)
 
 το Ελληνικό βιβλίο
@@ -6,7 +5,7 @@
 # Καλώς ήρθατε στο βιβλίο της FreeBASIC
 
 Το πρώτο Ελληνικό βιβλίο που σας μαθαίνει προγραμματισμό με την γλώσσα FreeBASIC
-
+<div align="center">
 <img title="" src="images/1stpage3D-186χ302.png" alt="" data-align="center">
 </div>
 
